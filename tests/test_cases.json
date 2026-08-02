@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "input": "Contact jordan.lee@example.com.",
+        "expected_categories": [
+            "EMAIL"
+        ],
+        "safe_text": false
+    },
+    {
+        "id": 2,
+        "input": "Call the fictional number 203-555-0147.",
+        "expected_categories": [
+            "PHONE"
+        ],
+        "safe_text": false
+    },
+    {
+        "id": 3,
+        "input": "The fictional SSN is 123-45-6789.",
+        "expected_categories": [
+            "SSN"
+        ],
+        "safe_text": false
+    },
+    {
+        "id": 4,
+        "input": "Use password=DemoPass123 for the fictional demo.",
+        "expected_categories": [
+            "PASSWORD"
+        ],
+        "safe_text": false
+    },
+    {
+        "id": 5,
+        "input": "Employee ID EMP-2045 is assigned to the sample account.",
+        "expected_categories": [
+            "EMPLOYEE_ID"
+        ],
+        "safe_text": false
+    },
+    {
+        "id": 6,
+        "input": "This confidential acquisition plan is for internal use only.",
+        "expected_categories": [
+            "CONFIDENTIAL_INFORMATION"
+        ],
+        "safe_text": false
+    },
+    {
+        "id": 7,
+        "input": "The fictional patient diagnosis is included in the medical record.",
+        "expected_categories": [
+            "MEDICAL_INFORMATION"
+        ],
+        "safe_text": false
+    },
+    {
+        "id": 8,
+        "input": "Use the fictional API key sk-fictionalExample12345.",
+        "expected_categories": [
+            "API_KEY"
+        ],
+        "safe_text": false
+    },
+    {
+        "id": 9,
+        "input": "The sample card number is 4111 1111 1111 1111.",
+        "expected_categories": [
+            "CREDIT_CARD"
+        ],
+        "safe_text": false
+    },
+    {
+        "id": 10,
+        "input": "Contact jordan.lee@example.com or 203-555-0147. Employee ID EMP-2045 is connected to the confidential acquisition plan.",
+        "expected_categories": [
+            "EMAIL",
+            "PHONE",
+            "EMPLOYEE_ID",
+            "CONFIDENTIAL_INFORMATION"
+        ],
+        "safe_text": false
+    },
+    {
+        "id": 11,
+        "input": "The project meeting is scheduled for 3:00 PM.",
+        "expected_categories": [],
+        "safe_text": true
+    },
+    {
+        "id": 12,
+        "input": "The team will review the public presentation tomorrow.",
+        "expected_categories": [],
+        "safe_text": true
+    },
+    {
+        "id": 13,
+        "input": "Please send the report before Friday.",
+        "expected_categories": [],
+        "safe_text": true
+    }
+]
