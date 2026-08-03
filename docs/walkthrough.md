@@ -2,7 +2,7 @@
 
 ## Video Link
 
-**Walkthrough Video:** To be added after recording.
+**Walkthrough Video:** https://youtu.be/mZY2m2dKmQk
 
 ## Live Application
 
