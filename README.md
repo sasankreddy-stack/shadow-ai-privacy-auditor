@@ -126,5 +126,5 @@ It does not intentionally store user-submitted text or send it to external AI pr
 - ✅ Architecture documentation
 - ✅ Reflection documentation
 - ✅ Fictional test cases
-- ⏳ Live deployment URL
-- ⏳ Walkthrough video
+- ✅ Live deployment URL
+- ✅ Walkthrough video
