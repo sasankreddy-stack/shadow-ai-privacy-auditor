@@ -10,7 +10,7 @@ https://shadow-ai-privacy-auditor-gakjwy6zaqvetiw52pbtgv.streamlit.app/
 
 ## Walkthrough Outline
 
-The walkthrough demonstrates:
+The walkthrough demonstrates: https://youtu.be/mZY2m2dKmQk
 
 1. The privacy risk of sharing sensitive information with public AI tools
 2. The text input interface
