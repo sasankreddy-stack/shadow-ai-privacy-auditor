@@ -2,6 +2,8 @@
 
 **Live Demo:** https://shadow-ai-privacy-auditor-gakjwy6zaqvetiw52pbtgv.streamlit.app/
 
+**Walkthrough Video:**  https://youtu.be/mZY2m2dKmQk
+
 ## Overview
 
 Shadow AI Privacy Auditor is a Streamlit web application that helps users identify and redact sensitive or confidential information before sharing text with public AI platforms such as ChatGPT, Gemini, or Copilot.
