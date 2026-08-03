@@ -38,7 +38,7 @@ The application analyzes user-provided text, highlights sensitive information, e
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/sasankreddy-stack/shadow-ai-privacy-auditor.git
 ```
 
 Move into the project:
