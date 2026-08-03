@@ -1,13 +1,33 @@
-# Project Walkthrough
+# Shadow AI Privacy Auditor – Walkthrough
 
-**Walkthrough Video:** To be added before submission.
+## Video Link
 
-The final walkthrough will demonstrate:
+**Walkthrough Video:** To be added after recording.
 
-1. The privacy problem
-2. A risky fictional example
-3. Detected and highlighted information
-4. Redacted safe text
-5. A safe example that remains unchanged
-6. Architecture and detection approach
-7. Known limitations
+## Live Application
+
+https://shadow-ai-privacy-auditor-gakjwy6zaqvetiw52pbtgv.streamlit.app/
+
+## Walkthrough Outline
+
+The walkthrough demonstrates:
+
+1. The privacy risk of sharing sensitive information with public AI tools
+2. The text input interface
+3. A fictional risky example
+4. Detection of sensitive information
+5. Highlighting and risk explanations
+6. Automatic redaction
+7. Risk scoring
+8. A safe example that remains unchanged
+9. The detection approach and application architecture
+10. Known limitations and future improvements
+
+## Risky Fictional Example
+
+```text
+Contact jordan.lee@example.com or 203-555-0147.
+
+Employee ID EMP-2045 is connected to the confidential acquisition plan.
+
+Use password=DemoPass123.
