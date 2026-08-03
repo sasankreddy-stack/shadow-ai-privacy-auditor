@@ -1,6 +1,6 @@
 # Shadow AI Privacy Auditor
 
-**Live Demo:** To be added after deployment
+**Live Demo:** https://shadow-ai-privacy-auditor-gakjwy6zaqvetiw52pbtgv.streamlit.app/
 
 ## Overview
 
